@@ -75,6 +75,6 @@ I'm Andrew T. Pipo!
 </table>
           
 ### Preview of my GitHub:
-<img width=450px src="https://github-readme-streak-stats.herokuapp.com/?user=PipoAT"/>
-<img width=450px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true"/>
-<img width=450px src="https://github-readme-stats.vercel.app/api/top-langs?username=PipoAT"/>
+<img width=450px height=200px src="https://github-readme-streak-stats.herokuapp.com/?user=PipoAT"/>
+<img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true"/>
+<img width=450px height=200px src="https://github-readme-stats.vercel.app/api/top-langs?username=PipoAT&layout=compact"/>
