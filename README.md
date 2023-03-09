@@ -56,6 +56,31 @@ I'm Andrew T. Pipo!
         </tr>
     </tbody>
 </table>
+
+### Programming Software/IDEs I Worked With:
+<table width="320px">
+<table>
+<tbody>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>LabVIEW</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/labview/labview-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>MATLAB</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>VS Code</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Visual Studio</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" />
+            </td>
+        </tr>
+</tbody>
+</table>
           
 ### Frameworks I Worked With:
 <table width="320px">
