@@ -111,3 +111,6 @@ Here are some ideas to get you started:
         </tr>
 </tbody>
 </table>
+### GitHub Stats:
+<img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PipoAT&layout=compact"/>
