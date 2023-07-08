@@ -20,6 +20,10 @@ Here are some ideas to get you started:
 - An ongoing Embedded Engineering Software Co-op at ATech Training
 - Check out my personal website [HERE](https://pipoat.github.io).
 
+
+<img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PipoAT&layout=compact"/>
+
 ### Programming Languages I Worked With:
 <table width="320px">
     <tbody>
@@ -111,6 +115,3 @@ Here are some ideas to get you started:
         </tr>
 </tbody>
 </table>
-### GitHub Stats:
-<img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PipoAT&layout=compact"/>
