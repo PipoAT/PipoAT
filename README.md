@@ -16,9 +16,10 @@ Here are some ideas to get you started:
 -->
 
 ## I'm Andrew T. Pipo!
-- An upcoming Third-Year student at University of Cinicnnati pursuing my degree in Computer Science with a minor in Information Technology
-- An ongoing Embedded Engineering Software Co-op at ATech Training
+- A Third-Year student at University of Cinicnnati pursuing my degree in Computer Science with a minor in Information Technology
+- 1+ Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
 - Check out my personal website [HERE](https://pipoat.github.io).
+- Interested in Website Development, Application Development, and Automation
 
 
 <img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
@@ -65,6 +66,10 @@ Here are some ideas to get you started:
             <td width="80px" align="center">
             <span><strong>Kotlin</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TI-Basic</strong></span><br>
+            <img height="32px" src="TIBASICLOGO.png" />
             </td>
         </tr>
     </tbody>
