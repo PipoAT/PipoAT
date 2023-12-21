@@ -18,6 +18,7 @@ Here are some ideas to get you started:
 ## I'm Andrew T. Pipo!
 - A Third-Year student at University of Cinicnnati pursuing my degree in Computer Science with a minor in Information Technology
 - 1+ Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
+- Associate PTA for ENED1100 (Spring 2024 Semester is my third semester as a PTA; Previously a PTA during the Fall 2022 and Fall 2023 Semesters)
 - Check out my personal website [HERE](https://pipoat.github.io).
 - Interested in Website Development, Application Development, and Automation
 
