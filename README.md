@@ -72,6 +72,12 @@ Here are some ideas to get you started:
             <img height="32px" src="TIBASICLOGO.png" />
             </td>
         </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>Prolog</strong></span><br>
+            <img height="32px" src="PROLOGICON.png" />
+            </td>
+        </tr>
     </tbody>
 </table>
 
