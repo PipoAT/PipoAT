@@ -19,8 +19,9 @@ Here are some ideas to get you started:
 - A Third-Year student at University of Cinicnnati pursuing my degree in Computer Science with a minor in Information Technology
 - 1+ Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
 - Associate PTA for ENED1100 (Spring 2024 Semester is my third semester as a PTA; Previously a PTA during the Fall 2022 and Fall 2023 Semesters)
+- Founding Member and Project Manager of the [3D Design & Automation Club at UC](https://github.com/3D-Design-and-Automation-Club-at-UC)
 - Check out my personal website [HERE](https://pipoat.github.io).
-- Interested in Website Development, Application Development, and Automation
+- Interested in Website Development, Application Development, 3D Design/Printing, and Automation.
 
 
 <img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
