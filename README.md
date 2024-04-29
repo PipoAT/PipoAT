@@ -16,12 +16,17 @@ Here are some ideas to get you started:
 -->
 
 ## I'm Andrew T. Pipo!
-- A Third-Year student at University of Cinicnnati pursuing my degree in Computer Science with a minor in Information Technology
+- Attending the University of Cinicnnati (Class of 2025)
+    - Majoring in Computer Science
+    - Minoring in Information Technology
+    - Obtaining a certificate in Software Engineering
 - 1+ Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
-- Associate PTA for ENED1100 (Spring 2024 Semester is my third semester as a PTA; Previously a PTA during the Fall 2022 and Fall 2023 Semesters)
+- Associate PTA for the Department of Engineering Education
+    - 4th Time as a PTA overall
+    - 3rd Time overseeing ENED1100 at University of Cincinnati's Blue Ash Regional Campus
 - Founding Member and Project Manager of the [3D Design & Automation Club at UC](https://github.com/3D-Design-and-Automation-Club-at-UC)
 - Check out my personal website [HERE](https://pipoat.github.io).
-- Interested in Website Development, Application Development, 3D Design/Printing, and Automation.
+- Interested in Website Development, Application Development, Software Engineering, 3D Design/Printing, and Automation.
 
 
 <img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
@@ -79,6 +84,10 @@ Here are some ideas to get you started:
             <span><strong>Prolog</strong></span><br>
             <img height="32px" src="PROLOGICON.png" />
             </td>
+            <td width="80px" align="center">
+            <span><strong>SCSS</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" />
+            </td>
         </tr>
     </tbody>
 </table>
@@ -107,6 +116,12 @@ Here are some ideas to get you started:
             <td width="80px" align="center">
             <span><strong>Android Studio</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/androidstudio/androidstudio-original.svg" />
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>PyCharm</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
             </td>
         </tr>
 </tbody>
