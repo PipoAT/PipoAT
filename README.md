@@ -124,7 +124,15 @@ Here are some ideas to get you started:
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
             </td>
             <td width="80px" align="center">
+            <span><strong>Microchip Studio</strong></span><br>
+<!--             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /> -->
+            </td>
+            <td width="80px" align="center">
             <span><strong>STM32CubeIDE</strong></span><br>
+<!--             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /> -->
+            </td>
+            <td width="80px" align="center">
+            <span><strong>TouchGFX Designer</strong></span><br>
 <!--             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /> -->
             </td>
         </tr>
