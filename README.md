@@ -26,7 +26,8 @@ Here are some ideas to get you started:
     - 3rd Time overseeing ENED1100 at University of Cincinnati's Blue Ash Regional Campus
 - Founding Member and Project Manager of the [3D Design & Automation Club at UC](https://github.com/3D-Design-and-Automation-Club-at-UC)
 - Check out my personal website [HERE](https://pipoat.github.io).
-- Interested in Website Development, Application Development, Software Engineering, 3D Design/Printing, and Automation.
+- Experimenting with the Rust programming language, Arduino, and STM32 MCUs
+- Interested in Website Development, Application Development, Software Engineering, 3D Design/Printing, User Interfacing, and Automation.
 
 
 <img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
