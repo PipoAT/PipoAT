@@ -20,7 +20,7 @@ Here are some ideas to get you started:
     - Majoring in Computer Science
     - Minoring in Information Technology
     - Obtaining a certificate in Software Engineering
-- 1+ Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
+- 1 1/2 Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
 - Associate PTA for the Department of Engineering Education
     - 4th Time as a PTA overall
     - 3rd Time overseeing ENED1100 at University of Cincinnati's Blue Ash Regional Campus
