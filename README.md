@@ -24,7 +24,6 @@ Here are some ideas to get you started:
 - Associate PTA for the Department of Engineering Education
     - 4th Time as a PTA overall
     - 3rd Time overseeing ENED1100 at University of Cincinnati's Blue Ash Regional Campus
-- Founding Member and Project Manager of the [3D Design & Automation Club at UC](https://github.com/3D-Design-and-Automation-Club-at-UC)
 - Check out my personal website [HERE](https://pipoat.github.io).
 - Experimenting with the Rust programming language, Arduino, and STM32 MCUs
 - Interested in Website Development, Application Development, Software Engineering, 3D Design/Printing, User Interfacing, and Automation.
