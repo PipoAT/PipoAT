@@ -29,8 +29,10 @@ Here are some ideas to get you started:
 - Interested in Website Development, Application Development, Software Engineering, 3D Design/Printing, User Interfacing, and Automation.
 
 
-<img width=450px height=200px src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=apprentice"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=PipoAT&layout=compact"/>
+<div style="display: flex; justify-content: center; gap: 10px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=radical&hide_rank=true" alt="Owen's GitHub stats" style="height: 200px;" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipoAT&layout=compact&theme=radical" alt="Top Langs" style="height: 200px;" />
+</div>
 
 ### Programming Languages I Worked With:
 <table width="320px">
