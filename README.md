@@ -21,12 +21,13 @@ Here are some ideas to get you started:
     - Minoring in Information Technology
     - Obtaining a certificate in Software Engineering
 - 1 1/2 Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
+- Experienced Website Developer for small businesses
 - Associate PTA for the Department of Engineering Education
-    - 4th Time as a PTA overall
-    - 3rd Time overseeing ENED1100 at University of Cincinnati's Blue Ash Regional Campus
+    - 5th Time as a PTA overall
+    - 4th Time overseeing ENED1100 and ENED1120 at University of Cincinnati's Blue Ash Regional Campus
 - Check out my personal website [HERE](https://pipoat.github.io).
-- Experimenting with the Rust programming language, Arduino, and STM32 MCUs
-- Interested in Website Development, Application Development, Software Engineering, 3D Design/Printing, User Interfacing, and Automation.
+- Experimenting with advanced website development, automation in the manufacturing industry, Arduino, and Raspberry Pi 5
+- Also interested in Application Development, Software Engineering, 3D Design/Printing, and User Interfacing
 
 
 <div style="display: flex; justify-content: center; gap: 10px;">
