@@ -16,16 +16,11 @@ Here are some ideas to get you started:
 -->
 
 ## I'm Andrew T. Pipo!
-- Attending the University of Cinicnnati (Class of 2025)
-    - Majoring in Computer Science
-    - Minoring in Information Technology
-    - Obtaining a certificate in Software Engineering
-- 1 1/2 Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time
+- Graduated from the University of Cincinnati (UC) with a Bachelors in Computer Science, Minor in IT, and a Certificate in Software Engineering
+- 2 Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time and will be working full time starting May 2025!
 - Experienced Website Developer for small businesses
-- Associate PTA for the Department of Engineering Education
-    - 5th Time as a PTA overall
-    - 4th Time overseeing ENED1100 and ENED1120 at University of Cincinnati's Blue Ash Regional Campus
-- Check out my personal website [HERE](https://pipoat.github.io).
+- Former Lead-TA for the Department of Engineering Education at UC overseeing ENED1100 and ENED1120 at UC Blue Ash
+- Check out my personal website [HERE](https://andrewpipo.com).
 - Experimenting with advanced website development, automation in the manufacturing industry, Arduino, and Raspberry Pi 5
 - Also interested in Application Development, Software Engineering, 3D Design/Printing, and User Interfacing
 
