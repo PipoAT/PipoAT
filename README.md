@@ -1,34 +1,14 @@
 # Hello, World! 👋
 
-<!--
-**PipoAT/PipoAT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 ## I'm Andrew T. Pipo!
 - Graduated from the University of Cincinnati (UC) with a Bachelors in Computer Science, Minor in IT, and a Certificate in Software Engineering
-- 2 Year(s) at [@ATech-Training](https://github.com/ATech-Training) as an R&D Co-op/R&D Part-time and will be working full time starting May 2025!
+- 3 Year(s) at [@ATech-Training](https://github.com/ATech-Training)
 - Experienced Website Developer for small businesses
 - Former Lead-TA for the Department of Engineering Education at UC overseeing ENED1100 and ENED1120 at UC Blue Ash
 - Check out my personal website [HERE](https://andrewpipo.com).
 - Experimenting with advanced website development, automation in the manufacturing industry, Arduino, and Raspberry Pi 5
 - Also interested in Application Development, Software Engineering, 3D Design/Printing, and User Interfacing
 
-
-<div style="display: flex; justify-content: center; gap: 10px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=PipoAT&show_icons=true&theme=radical&hide_rank=true" alt="Owen's GitHub stats" style="height: 200px;" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=PipoAT&layout=compact&theme=radical" alt="Top Langs" style="height: 200px;" />
-</div>
 
 ### Programming Languages I Worked With:
 <table width="320px">
