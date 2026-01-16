@@ -2,7 +2,7 @@
 
 ## I'm Andrew T. Pipo!
 - Graduated from the University of Cincinnati (UC) with a Bachelors in Computer Science, Minor in IT, and a Certificate in Software Engineering
-- 3 Year(s) at [@ATech-Training](https://github.com/ATech-Training)
+- 3 Years at [@ATech-Training](https://github.com/ATech-Training)
 - Experienced Website Developer for small businesses
 - Former Lead-TA for the Department of Engineering Education at UC overseeing ENED1100 and ENED1120 at UC Blue Ash
 - Check out my personal website [HERE](https://andrewpipo.com)
