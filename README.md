@@ -2,7 +2,6 @@
 
 ## I'm Andrew T. Pipo!
 - Graduated from the University of Cincinnati (UC) with a Bachelors in Computer Science, Minor in IT, and a Certificate in Software Engineering
-- Currently pursuing Master's degree in Computer Science at the University of Cincinnati
 - 3 Year(s) at [@ATech-Training](https://github.com/ATech-Training)
 - Experienced Website Developer for small businesses
 - Former Lead-TA for the Department of Engineering Education at UC overseeing ENED1100 and ENED1120 at UC Blue Ash
@@ -12,7 +11,12 @@
   - Data Visualization (D3.js, Chart.js, Vega-Lite)
   - Desktop Application Development (C# .NET, WinForms)
   - Automation Tools & Manufacturing Software
-  - Embedded Systems (Arduino, Raspberry Pi 5, STM32, Microchip)
+  - Embedded Systems Development:
+    - Microcontroller Programming (Arduino, STM32, Microchip AVR)
+    - Single Board Computers (Raspberry Pi 5)
+    - Embedded GUI Development (TouchGFX Designer)
+    - Hardware-Software Integration & Prototyping
+    - Real-time Systems & IoT Applications
 - Also interested in Application Development, Software Engineering, 3D Design/Printing, and User Interfacing
 
 
@@ -82,7 +86,6 @@
 
 ### Programming Software/IDEs I Worked With:
 <table width="320px">
-<table>
 <tbody>
         <tr valign="top">
             <td width="80px" align="center">
@@ -143,7 +146,6 @@
           
 ### Frameworks I Worked With:
 <table width="320px">
-<table>
 <tbody>
         <tr valign="top">
             <td width="80px" align="center">
