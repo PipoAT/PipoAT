@@ -2,11 +2,17 @@
 
 ## I'm Andrew T. Pipo!
 - Graduated from the University of Cincinnati (UC) with a Bachelors in Computer Science, Minor in IT, and a Certificate in Software Engineering
+- Currently pursuing Master's degree in Computer Science at the University of Cincinnati
 - 3 Year(s) at [@ATech-Training](https://github.com/ATech-Training)
 - Experienced Website Developer for small businesses
 - Former Lead-TA for the Department of Engineering Education at UC overseeing ENED1100 and ENED1120 at UC Blue Ash
-- Check out my personal website [HERE](https://andrewpipo.com).
-- Experimenting with advanced website development, automation in the manufacturing industry, Arduino, and Raspberry Pi 5
+- Check out my personal website [HERE](https://andrewpipo.com)
+- Specializing in:
+  - Advanced UI/UX Development (Svelte, React)
+  - Data Visualization (D3.js, Chart.js, Vega-Lite)
+  - Desktop Application Development (C# .NET, WinForms)
+  - Automation Tools & Manufacturing Software
+  - Embedded Systems (Arduino, Raspberry Pi 5, STM32, Microchip)
 - Also interested in Application Development, Software Engineering, 3D Design/Printing, and User Interfacing
 
 
@@ -53,11 +59,15 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
             </td>
             <td width="80px" align="center">
-            <span><strong>TI-Basic</strong></span><br>
-            <img height="32px" src="TIBASICLOGO.png" />
+            <span><strong>TypeScript</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
             </td>
         </tr>
         <tr valign="top">
+            <td width="80px" align="center">
+            <span><strong>TI-Basic</strong></span><br>
+            <img height="32px" src="TIBASICLOGO.png" />
+            </td>
             <td width="80px" align="center">
             <span><strong>Prolog</strong></span><br>
             <img height="32px" src="PROLOGICON.png" />
@@ -102,6 +112,20 @@
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" />
             </td>
             <td width="80px" align="center">
+            <span><strong>IntelliJ IDEA</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>Git</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>GitHub</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" />
+            </td>
+        </tr>
+        <tr valign="top">
+            <td width="80px" align="center">
             <span><strong>Microchip Studio</strong></span><br>
 <!--             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" /> -->
             </td>
@@ -130,6 +154,22 @@
             <span><strong>Bootstrap</strong></span><br>
             <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
             </td>
+            <td width="80px" align="center">
+            <span><strong>Svelte</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/svelte/svelte-original.svg" />
+            </td>
+            <td width="80px" align="center">
+            <span><strong>React</strong></span><br>
+            <img height="32px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+            </td>
         </tr>
 </tbody>
 </table>
+
+### Notable Projects:
+- **[SQLite Database Tool](https://github.com/PipoAT/SQLite-Database-Tool)** - C# WinForms application for managing SQLite databases
+- **[Ethernet Communication Tool](https://github.com/PipoAT/Ethernet-Communication-Tool)** - .NET 8.0 WinForms app for testing Ethernet communications
+- **[ENED Demo Team Assignment](https://github.com/PipoAT/ENED_DemoTeam_Assignment)** - Python application for assigning ENED teams to demo stations at UC
+- **[Personal Portfolio](https://github.com/PipoAT/pipoat.github.io)** - Personal website showcasing UI/UX and data visualization projects
+- **UI/UX Projects** - Multiple Svelte-based projects demonstrating modern web development practices
+- **Data Visualization Projects** - D3.js and Vega-Lite projects for interactive data visualization
